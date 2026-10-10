@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/graffesh27/youtube-music-native-updates/releases/download/v1.9.0/YouTubeMusic-Native-Windows-x64-v1.9.zip",
-  "sha256": "a78feb1d754c1e7efa45f67048f874eedb230110c0bf60404870397749d2ec81",
-  "notes": "İlk otomatik güncelleme sürümü."
+  "version": "2.0.0",
+  "url": "https://github.com/graffesh27/youtube-music-native-updates/releases/download/v2.0.0/YouTubeMusic-Native-Windows-x64-v2.0.zip",
+  "sha256": "33e50f2a5e9377d92357abcfda1870de6553239e5bf4faf324f0838a44406a7a",
+  "notes": "Performans, sayfa cache, beğeni senkronizasyonu ve oynatma optimizasyonları."
 }
