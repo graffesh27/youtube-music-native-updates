@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/graffesh27/youtube-music-native-updates/releases/download/v2.2.0/YouTubeMusic-Native-Windows-x64-v2.2.zip",
-  "sha256": "d638064f1dfd960aaaff56108b8f0c37ed6b56fd87eb4ebcb4c8f462b9d0a767",
-  "notes": "Ilk sarki icin kalici resolver, foreground onceligi ve olcumlu performans optimizasyonlari."
+  "version": "2.3.0",
+  "url": "https://github.com/graffesh27/youtube-music-native-updates/releases/download/v2.3.0/YouTubeMusic-Native-Windows-x64-v2.3.zip",
+  "sha256": "663909df8d3bda722e59739ea5af138a9ca6e871d17318c984a1fc4acb5a57bc",
+  "notes": "Home kart oynatma duzeltmesi, geri navigasyon ve resolver performans iyilestirmeleri."
 }
